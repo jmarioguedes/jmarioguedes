@@ -1,4 +1,11 @@
-### Hi there 👋
+### Olá amigon! 👋
+
+Boas vindas ao meu perfil.
+
+Meu nome é Mario Guedes e sou desenvolvedor de soluções focado no backend.
+
+Desenvolvo em Python e Delphi com banco de dados noSQL.
+
 
 <!--
 **jmarioguedes/jmarioguedes** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
