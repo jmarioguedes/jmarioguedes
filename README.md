@@ -1,23 +1,14 @@
-### Olá amigon! 👋
+### Prazer, Mario Guedes 👋🏼
 
-Boas vindas ao meu perfil.
+## Arquiteto e Desenvolvedor Backend
 
-Meu nome é Mario Guedes e sou desenvolvedor de soluções focado no backend.
+Com mais de 20 anos em desenvolvimento de software ajudei a criar soluções para a indústria, confecção, seguros e contact center. Sempre atualizado em relação às técnicas e tecnologias possuo um bom repertório para propor soluções porém sempre ciente de que posso aprender mais.
 
-Desenvolvo em Python e Delphi com banco de dados noSQL.
+Com ênfase em backend, minhas principais habilidades técnicas são:
 
-
-<!--
-**jmarioguedes/jmarioguedes** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+📐 Arquitetura de soluções baseadas em restful, microsserviços e serverless
+🛢 Banco de dados NoSQL, em especial REDIS (muito além do cache) e MongoDB
+🐍 Python avançado (com ênfase em Async IO)
+🏛 Delphi avançado
+🐿 Iniciando em Golang
+🔑 Iniciando em Solidity e Blockchain
