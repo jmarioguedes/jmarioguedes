@@ -15,4 +15,4 @@ Com ênfase em backend, minhas principais habilidades técnicas são:
 
 ---
 
-<img align="left" alt="jmarioguedes's GitHub Stats" src="https://github-readme-stats.jmarioguedes.vercel.app/api?username=jmarioguedes&show_icons=true&hide_border=true" />
+<img align="left" alt="jmarioguedes's GitHub Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=jmarioguedes&show_icons=true&hide_border=true" />
