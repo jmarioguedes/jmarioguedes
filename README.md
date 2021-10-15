@@ -12,3 +12,7 @@ Com ênfase em backend, minhas principais habilidades técnicas são:
 🏛 Delphi avançado  
 🐿 Iniciando em Golang  
 🔑 Iniciando em Solidity e Blockchain  
+
+---
+
+<img align="left" alt="jmarioguedes's GitHub Stats" src="https://github-readme-stats.jmarioguedes.vercel.app/api?username=jmarioguedes&show_icons=true&hide_border=true" />
