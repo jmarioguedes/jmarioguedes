@@ -6,6 +6,8 @@ Com mais de 20 anos em desenvolvimento de software ajudei a criar soluções par
 
 Com ênfase em backend, minhas principais habilidades técnicas são:
 
+---
+
 📐 Arquitetura de soluções baseadas em restful, microsserviços e serverless  
 🛢 Banco de dados NoSQL, em especial REDIS (muito além do cache) e MongoDB  
 🐍 Python avançado (com ênfase em Async IO)  
@@ -15,4 +17,3 @@ Com ênfase em backend, minhas principais habilidades técnicas são:
 
 ---
 
-<img align="left" alt="jmarioguedes's GitHub Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=jmarioguedes&show_icons=true&hide_border=true" />
